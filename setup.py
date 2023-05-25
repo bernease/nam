@@ -18,7 +18,7 @@ setup(
         "pytorch-lightning",
         "wandb",
         "matplotlib",
-        "sklearn",
+        "scikit-learn",
         "numpy",
         "pandas",
         "loguru",
